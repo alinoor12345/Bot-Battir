@@ -37,7 +37,7 @@ To use it
 ## Author
 
 This project is contributed by:
-[Feisal Bireh](https://github.com/Feisalbireh)
+[Ali Noor](https://github.com/alinoor12345)
 
 ## Lisence
 
